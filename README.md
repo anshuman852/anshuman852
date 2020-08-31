@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [anshuman852.dev](anshuman852.dev)
+- 👨‍💻 All of my projects are available at [anshuman852.dev](https://anshuman852.dev)
 
 - 💬 Ask me about **cloud,scripting,android**
 
