@@ -17,6 +17,9 @@
 <h3> :zap: Recent Activity <h3>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#5](https://github.com//architdate/PSARipper/issues/5) in [architdate/PSARipper](https://github.com//architdate/PSARipper)
+2. 🗣 Commented on [#64](https://github.com//AnimeKaizoku/SaitamaRobot/issues/64) in [AnimeKaizoku/SaitamaRobot](https://github.com//AnimeKaizoku/SaitamaRobot)
+<!--END_SECTION:activity-->
 
 <p align="center">
 <a href="https://codepen.io/anshuman852" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="anshuman852" height="30" width="30" /></a>
