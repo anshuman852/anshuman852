@@ -18,7 +18,6 @@
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 <p align="center">
 <a href="https://codepen.io/anshuman852" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="anshuman852" height="30" width="30" /></a>
 <a href="https://twitter.com/anshuman852" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="anshuman852" height="30" width="30" /></a>
