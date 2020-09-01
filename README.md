@@ -17,8 +17,8 @@
 <h3> :zap: Recent Activity <h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com//architdate/PSARipper/issues/5) in [architdate/PSARipper](https://github.com//architdate/PSARipper)
-2. 🗣 Commented on [#64](https://github.com//AnimeKaizoku/SaitamaRobot/issues/64) in [AnimeKaizoku/SaitamaRobot](https://github.com//AnimeKaizoku/SaitamaRobot)
+1. 🎉 Merged PR [#2](https://github.com//anshuman852/kaizoku-short/pull/2) in [anshuman852/kaizoku-short](https://github.com//anshuman852/kaizoku-short)
+2. ❗️ Opened issue [#5](https://github.com//architdate/PSARipper/issues/5) in [architdate/PSARipper](https://github.com//architdate/PSARipper)
 <!--END_SECTION:activity-->
 
 <p align="center">
