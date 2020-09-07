@@ -18,7 +18,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#75](https://github.com//botallen/repository.botallen/issues/75) in [botallen/repository.botallen](https://github.com//botallen/repository.botallen)
-2. 🎉 Merged PR [#2](https://github.com//anshuman852/kaizoku-short/pull/2) in [anshuman852/kaizoku-short](https://github.com//anshuman852/kaizoku-short)
+2. 🗣 Commented on [#75](https://github.com//botallen/repository.botallen/issues/75) in [botallen/repository.botallen](https://github.com//botallen/repository.botallen)
 <!--END_SECTION:activity-->
 
 <p align="center">
