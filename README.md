@@ -17,8 +17,8 @@
 <h3> :zap: Recent Activity <h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//anshuman852/kaizoku-short/pull/2) in [anshuman852/kaizoku-short](https://github.com//anshuman852/kaizoku-short)
-2. ❗️ Opened issue [#5](https://github.com//architdate/PSARipper/issues/5) in [architdate/PSARipper](https://github.com//architdate/PSARipper)
+1. 🗣 Commented on [#75](https://github.com//botallen/repository.botallen/issues/75) in [botallen/repository.botallen](https://github.com//botallen/repository.botallen)
+2. 🎉 Merged PR [#2](https://github.com//anshuman852/kaizoku-short/pull/2) in [anshuman852/kaizoku-short](https://github.com//anshuman852/kaizoku-short)
 <!--END_SECTION:activity-->
 
 <p align="center">
