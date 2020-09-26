@@ -17,8 +17,8 @@
 <h3> :zap: Recent Activity <h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com//botallen/repository.botallen/issues/75) in [botallen/repository.botallen](https://github.com//botallen/repository.botallen)
-2. 🗣 Commented on [#75](https://github.com//botallen/repository.botallen/issues/75) in [botallen/repository.botallen](https://github.com//botallen/repository.botallen)
+1. 🗣 Commented on [#75](https://github.com/botallen/repository.botallen/issues/75) in [botallen/repository.botallen](https://github.com/botallen/repository.botallen)
+2. 🗣 Commented on [#75](https://github.com/botallen/repository.botallen/issues/75) in [botallen/repository.botallen](https://github.com/botallen/repository.botallen)
 <!--END_SECTION:activity-->
 
 <p align="center">
